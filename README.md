@@ -1,8 +1,4 @@
-Perfecto 🙌, ahora quedó claro: necesitas un **README.md** para tu proyecto de análisis de las tiendas, con un estilo **atento, conciso y accesible** para personas que no necesariamente son técnicas.
 
-Aquí te propongo un borrador inicial:
-
----
 
 # 📊 Análisis de Tiendas – Proyecto de Data Science
 
